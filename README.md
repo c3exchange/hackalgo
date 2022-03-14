@@ -49,7 +49,7 @@ _Submission Procedure_
 
 
 ## Other Requirements
-For questions, reach out to [Algorand on Discord](https://discord.gg/84AActu3at).
+For questions, reach out to [HackAlgo on Discord](https://discord.gg/5zjRMSQM).
 
 * **IMPORTANT** As gitcoin does not provide a way for us to contact you, after taking the bounty, please subscribe to the bounty issue to receive comments notifications from us. (You can find a "View on Github" button in this page to go to the bounty issue)
 * Taking this bounty task means you have agreed to our [Bounty Agreement terms and policies](https://github.com/algorandfoundation/grow-algorand/blob/master/bounty-agreement.md).
